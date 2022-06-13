@@ -4,9 +4,12 @@ Progetto finale e tesi di laurea del corso Laboratorio di intelligenza artificia
 - Yolo v4 object detection model trained on cloud in Google Colab.
 - OCR performed by both EasyOCR and Pytesseract with comparison between the two.
 - Credits:
+
     Training a custom Yolo v4 object detection model on cloud: https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial
     
     Running a pre-trained custom object detection model: https://github.com/theAIGuysCode/tensorflow-yolov4-tflite
+    
+    Dataset used for training the model: https://storage.googleapis.com/openimages/web/index.html
 
 # ANPR.ipynb
 -Versione del progetto che non utilizza machine learning ma esclusivamente computer vision. I risultati sono sicuramente meno accurati e spesso il modello fallisce riconoscimenti a prima vista molto semplici, tuttavia ho ritenuto interessante mostrare anche questa versione in quanto copre molti argomenti svolti nella prima parte del corso.
