@@ -1,10 +1,11 @@
-# progettoLAB-IA
+# ProgettoLAB-IA
 Progetto finale e tesi di laurea del corso Laboratorio di intelligenza artificiale.
 
 - Yolo v4 object detection model trained on cloud in Google Colab.
 - OCR performed by both EasyOCR and Pytesseract with comparison between the two.
 - Credits:
     Training a custom Yolo v4 object detection model on cloud: https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial
+    
     Running a pre-trained custom object detection model: https://github.com/theAIGuysCode/tensorflow-yolov4-tflite
 
 # ANPR.ipynb
@@ -22,3 +23,5 @@ Progetto finale e tesi di laurea del corso Laboratorio di intelligenza artificia
 # commands.txt
 -File di testo contenente i 4 comandi da eseguire in una shell "conda" dopo l'attivazione del virtual enviroment "yolov4-gpu", con lo scopo rispettivamente di attivare il modello YOLO v4 nell'enviroment convertendo i pesi addestrati in cloud nel formato tensorflow e far girare quest'ultimo su immagini, video e webcam.
 
+
+# Simone Pascucci 1895398
