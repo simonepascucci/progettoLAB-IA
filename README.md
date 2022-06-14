@@ -26,5 +26,17 @@ Progetto finale e tesi di laurea del corso Laboratorio di intelligenza artificia
 # commands.txt
 -File di testo contenente i 4 comandi da eseguire in una shell "conda" dopo l'attivazione del virtual enviroment "yolov4-gpu", con lo scopo rispettivamente di attivare il modello YOLO v4 nell'enviroment convertendo i pesi addestrati in cloud nel formato tensorflow e far girare quest'ultimo su immagini, video e webcam.
 
+# Video detections
+- Directory contenente il risultato dell'esecuzione del modello su video, alcuni di essi scaricati dal web e altri registrati da me personalmente in 4 modi diversi:
+ - Videocamera e auto ferme
+ - Videocamera in movimento e auto ferme
+ - Videocamera ferma e auto in movimento
+ - Entrambi in movimento.
+
+# Detections
+- Targhe ottenute dall'esecuzione del modello sui video della directory "video detections" catturate ogni 15 secondi, quindi circa ogni 2 secondi.
+
+# Samples
+- Piccolo set di foto per testare la versione 'lite' del progetto che utilizza esclusivamente computer vision.
 
 # Simone Pascucci 1895398
